@@ -1,0 +1,422 @@
+[
+  {
+    "stt": 1,
+    "ho_ten": "OLIVER JOHNSON",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "OLIVER JOHNSON",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8620049357414246
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8620049357414246,
+            "bbox": [
+              349.78594970703125,
+              247.68862915039062,
+              435.969970703125,
+              344.4804382324219
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 1
+  },
+  {
+    "stt": 2,
+    "ho_ten": "SOPHIA MILIER",
+    "dong_y": false,
+    "khong_dong_y": true,
+    "chi_tiet": {
+      "ho_ten_ocr": "SOPHIA MILIER",
+      "dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8361750841140747
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8361750841140747,
+            "bbox": [
+              391.0934143066406,
+              234.71771240234375,
+              463.4520568847656,
+              326.48553466796875
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 2
+  },
+  {
+    "stt": 3,
+    "ho_ten": "JAMES ROBINSON",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "JAMES ROBINSON",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8666045665740967
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8666045665740967,
+            "bbox": [
+              348.20599365234375,
+              245.9330291748047,
+              440.044677734375,
+              368.83050537109375
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 3
+  },
+  {
+    "stt": 4,
+    "ho_ten": "EMILY HARRIS",
+    "dong_y": false,
+    "khong_dong_y": true,
+    "chi_tiet": {
+      "ho_ten_ocr": "EMILY HARRIS",
+      "dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8978173136711121
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8978173136711121,
+            "bbox": [
+              244.8822021484375,
+              270.06463623046875,
+              350.27569580078125,
+              389.6767578125
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 4
+  },
+  {
+    "stt": 5,
+    "ho_ten": "BENJAMIN SCOTT",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "BENJAMIN SCOTT",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8733087182044983
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8733087182044983,
+            "bbox": [
+              202.40029907226562,
+              260.44384765625,
+              286.4414978027344,
+              371.3846435546875
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 5
+  },
+  {
+    "stt": 6,
+    "ho_ten": "CHARLOTTE WALKER",
+    "dong_y": false,
+    "khong_dong_y": true,
+    "chi_tiet": {
+      "ho_ten_ocr": "CHARLOTTE WALKER",
+      "dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8821409344673157
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8821409344673157,
+            "bbox": [
+              342.4404602050781,
+              262.3734130859375,
+              445.5843200683594,
+              385.38330078125
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 6
+  },
+  {
+    "stt": 7,
+    "ho_ten": "WILLIAM TURNER",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "WILLIAM TURNER",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8848382234573364
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8848382234573364,
+            "bbox": [
+              303.9491882324219,
+              296.1097717285156,
+              406.7029724121094,
+              401.0628356933594
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 7
+  },
+  {
+    "stt": 8,
+    "ho_ten": "AMELIA COOPER",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "AMELIA COOPER",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8882324695587158
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8882324695587158,
+            "bbox": [
+              383.7335510253906,
+              278.44671630859375,
+              474.6308898925781,
+              382.15325927734375
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 8
+  },
+  {
+    "stt": 9,
+    "ho_ten": "DANIL PARKER",
+    "dong_y": false,
+    "khong_dong_y": true,
+    "chi_tiet": {
+      "ho_ten_ocr": "DANIL PARKER",
+      "dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8929930329322815
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8929930329322815,
+            "bbox": [
+              213.7160186767578,
+              294.19024658203125,
+              317.13995361328125,
+              399.99639892578125
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 9
+  },
+  {
+    "stt": 10,
+    "ho_ten": "GRACE MITCHELL",
+    "dong_y": true,
+    "khong_dong_y": false,
+    "chi_tiet": {
+      "ho_ten_ocr": "GRACE MITCHELL",
+      "dong_y_yolo": {
+        "co_dau_x": true,
+        "so_luong_x_mark": 1,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [
+          0.8681811094284058
+        ],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [
+          {
+            "class": "x_mark",
+            "confidence": 0.8681811094284058,
+            "bbox": [
+              365.24542236328125,
+              303.20928955078125,
+              443.14202880859375,
+              401.94500732421875
+            ]
+          }
+        ],
+        "loi": null
+      },
+      "khong_dong_y_yolo": {
+        "co_dau_x": false,
+        "so_luong_x_mark": 0,
+        "so_luong_x_cancelled": 0,
+        "confidence_x_mark": [],
+        "confidence_x_cancelled": [],
+        "chi_tiet_detection": [],
+        "loi": null
+      },
+      "loi": []
+    },
+    "so_dong": 10
+  }
+]

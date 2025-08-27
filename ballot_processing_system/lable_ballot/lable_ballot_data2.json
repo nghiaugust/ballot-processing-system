@@ -1,0 +1,8686 @@
+{
+  "ballot_100": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_101": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_102": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_103": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_104": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_105": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_106": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_108": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_109": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_112": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_113": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_115": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_117": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_118": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_119": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_120": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_121": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_122": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_123": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_129": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_134": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_135": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_136": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_137": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_139": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_140": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_141": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_142": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_143": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_144": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_145": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_146": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_147": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_148": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_149": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_150": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_151": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_152": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_153": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_154": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_155": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_156": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_157": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_158": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_159": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_160": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_161": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_162": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_163": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_165": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_166": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_167": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_168": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_169": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_170": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_171": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_172": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_173": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_174": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_176": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_177": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_178": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_179": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_180": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_181": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_182": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_183": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_184": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_185": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_186": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_187": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_188": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_190": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_193": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_195": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_196": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_197": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_198": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_199": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_200": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_201": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_202": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_203": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_204": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_205": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_206": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_207": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_208": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_209": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_210": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_211": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_212": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_213": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_214": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_215": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_216": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_217": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_218": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_219": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_220": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_221": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_222": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_223": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_224": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_225": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_226": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_227": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_228": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_229": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_230": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_231": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_232": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_233": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_234": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_235": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_236": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_237": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_238": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_239": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_240": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_241": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_242": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_243": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_244": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_245": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_246": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_247": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_248": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_249": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_250": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_251": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_252": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_254": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_255": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_256": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_257": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_258": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_259": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_260": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_261": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_263": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_264": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_265": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_266": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_267": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_268": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_269": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_270": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_271": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_272": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_273": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_274": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_275": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_276": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_278": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_279": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_280": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_281": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_89": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_91": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_93": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_94": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ],
+  "ballot_95": [
+    {
+      "dong": 1,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 2,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_96": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_97": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 7,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_98": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 5,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 9,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 10,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    }
+  ],
+  "ballot_99": [
+    {
+      "dong": 1,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 2,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 3,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 4,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 5,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 6,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 7,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 8,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    },
+    {
+      "dong": 9,
+      "dong_y": 1,
+      "khong_dong_y": 0
+    },
+    {
+      "dong": 10,
+      "dong_y": 0,
+      "khong_dong_y": 1
+    }
+  ]
+}
